@@ -25,6 +25,7 @@ ing. It was created by David Cournapeau in 2007
 • TensorFlow is a more complex library for distributed numerical computation. It
 makes it possible to train and run very large neural networks efficiently TensorFlow (TF) was created at Google and supports
 many of its large-scale Machine Learning applications
+
 • Keras is a high-level Deep Learning API that makes it very simple to train and
 run neural networks. It can run on top of either TensorFlow, Theano, or Micro‐
 soft Cognitive Toolkit (formerly known as CNTK). TensorFlow comes with its
